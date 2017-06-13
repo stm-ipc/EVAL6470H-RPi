@@ -1,0 +1,125 @@
+body
+{
+	background:#ffffff;
+	margin:0px;
+	padding:0px;
+}
+img
+{
+	border:0px;
+}
+a
+{
+	color:#333333;
+	text-decoration:none;
+}
+a:hover
+{
+	color:#000000;
+}
+.site
+{
+/*	width:1000px;
+	margin:auto;*/
+}
+.header
+{
+	height:99px;
+	background:url('header_st.png') no-repeat center;
+	margin-top:20px;
+}
+.header span
+{
+	display:block;
+	font-size:50px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	padding-top:20px;
+	text-align:center;
+}
+.foot
+{
+	text-align:center;
+	height:29px;
+	padding-top:10px;
+	background:url('foot.png') no-repeat center;
+	margin-bottom:20px;
+}
+.foot a,.foot
+{
+	color:#444444;
+}
+.foot:hover a,.foot:hover
+{
+	color:#222222;
+}
+.foot a:hover
+{
+	color:#000000;
+}
+.corp
+{
+	width:886px;
+	padding-bottom:12px;
+	padding-top:15px;
+	color:#000000;
+	margin:auto;
+}
+.corp_ctn
+{
+	margin-left:220px;
+	width:550px;
+}
+.clean
+{
+	clear:both;
+}
+h1,h2,h3,h4,h5,h6,p
+{
+	margin:0px;
+}
+h1,h2,h3
+{
+	color:#333333;
+	border-bottom:2px solid #555555;
+	margin-left:10px;
+	padding-top:5px;
+}
+h4,h5,h6
+{
+	color:#333333;
+	margin-left:10px;
+	padding-top:5px;
+}
+pass
+{
+	color:green;
+	font-size:24px;
+	margin-left:10px;
+	padding-top:5px;
+}
+fail
+{
+	color:red;
+	background-color:yellow;
+	font-size:24px;
+	margin-left:10px;
+	padding-top:5px;
+}
+.paragraphe,p
+{
+	padding-left:10px;
+	padding-bottom:5px;
+	padding-top:5px;
+}
+ul
+{
+	list-style-image:url('puce01.png');
+}
+ul,ol
+{
+	margin:0px;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:10px;
+}
